@@ -14,3 +14,4 @@
 - 💞️ I’m looking to collaborate, i think sharing is caring, and i would like to give a huge thanks to everyone from the open-source community. 
 Every code you have ever shared will be useful for someone like me, who always want to learn, they're special place on my heart for you !
 - ⚡ My maths and logics are not the bests.
+- 🤍 SHARING IS CARING
