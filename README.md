@@ -15,3 +15,4 @@
 Every code you have ever shared will be useful for someone like me, who always want to learn, they're special place on my heart for you !
 - ⚡ My maths and logics are not the bests.
 - 🤍 SHARING IS CARING
+- 😉 Some guy from Finland told me that **is never too late to learn**.
