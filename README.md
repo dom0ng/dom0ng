@@ -1,8 +1,5 @@
-### Hello world 👋
+# About dom0ng
 
-<!--
-**dom0ng/dom0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - 👋 Hi, I’m @dom0ng / JustinY.
 - 👀 I’m mostly interested in technology, discover how stuff/technology really works !
@@ -16,3 +13,17 @@ Every code you have ever shared will be useful for someone like me, who always w
 - ⚡ My maths and logics are not the bests.
 - 🤍 SHARING IS CARING
 - 😉 Some guy from Finland told me that **is never too late to learn**.
+
+
+**I don't like propaganda, disinformation, and lie.**
+Everyone should be able to found **true information on internet.**
+
+God bless the open-source community.
+
+# pcileech-fpga firmware 
+**[pcileech-multimedia-hd](https://github.com/dom0ng/pcileech-multimedia-hd)** - FPGA card looks like an capture card, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.  
+**[pcileech-wifi-v2](https://github.com/dom0ng/pcileech-wifi-v2)** - FPGA card looks like a wireless adapter, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.   
+
+# 42School
+**[libft](https://github.com/dom0ng/libft)** - Implementation of some of the Standard C Library functions including some additional ones.
+
