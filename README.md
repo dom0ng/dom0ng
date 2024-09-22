@@ -24,6 +24,7 @@ God bless the open-source community.
 **[pcileech-multimedia-hd](https://github.com/dom0ng/pcileech-multimedia-hd)** - FPGA card looks like an capture card, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.  
 **[pcileech-wifi-v2](https://github.com/dom0ng/pcileech-wifi-v2)** - FPGA card looks like a wireless adapter, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.   
 **[pcileech-audio](https://github.com/dom0ng/pcileech-audio)** - FPGA card looks like an audio card, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.   
+**[pcileech-cardreader](https://github.com/dom0ng/pcileech-cardreader)** - FPGA card looks like a sd card reader, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.   
 
 # 42School
 **[libft](https://github.com/dom0ng/libft)** - Implementation of some of the Standard C Library functions including some additional ones.
