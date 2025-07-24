@@ -23,8 +23,6 @@ I stand firmly against **propaganda, misinformation, and deceit.**
 God bless the open-source community.
 **SHARING IS CARING.**
 
-Let me know if you want this further tailored for a specific audience or with extra focuses (e.g., security, ethical hacking, etc.)!
-
 # demo pcileech-fpga firmware 
 **[pcileech-multimedia-hd](https://github.com/dom0ng/pcileech-multimedia-hd)** - FPGA card looks like an capture card, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.  
 **[pcileech-wifi-v2](https://github.com/dom0ng/pcileech-wifi-v2)** - FPGA card looks like a wireless adapter, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.   
