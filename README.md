@@ -1,24 +1,29 @@
 # About dom0ng
 
 
-- 👋 Hi, I’m @dom0ng / JustinY.
-- 👀 I’m mostly interested in technology, discover how stuff/technology really works !
-- 🔭  I’m currently playing around with game hacking and memory stuff since years++., trying to get around some shady companies and their shady tactics.
-- 🌱 I learn everything i know from internet and 42 School.
-- 👯 I still consider myself as a skid, since most of the tools i use are done by others peoples way smarter than me.
-  Being a skid is not bad. You will be surprised by what i can do.
-- 🤔 I dont reinvent the wheel (not yet).
-- 💞️ I’m looking to collaborate, i think sharing is caring, and i would like to give a huge thanks to everyone from the open-source community. 
-Every code you have ever shared will be useful for someone like me, who always want to learn, they're special place on my heart for you !
-- ⚡ My maths and logics are not the bests.
-- 🤍 SHARING IS CARING
-- 😉 Some guy from Finland told me that **is never too late to learn**.
+- 👋  Hey, I’m JustinY (aka @dom0ng).
+- 👀  I'm passionate about technology and constantly exploring how things truly work under the hood.
+- 🔭  I’ve spent years delving into game hacking, reverse engineering, and memory analysis, aiming to understand—and sometimes circumvent—obscure or questionable tactics used by certain companies.
+- 🌱  I'm a self-taught developer, drawing knowledge from both the internet and 42 School.
+I believe the best way to learn is by doing—and occasionally breaking things.
+- 👯 I happily stand on the shoulders of giants. Many tools I use are crafted by developers far more skilled than me.
+Embracing the "skid" label isn’t a weakness—it's a drive to learn, improve, and contribute back.
+I’m always open to collaboration and believe deeply that sharing knowledge benefits everyone.
+- 💞️ Special thanks to the open-source community—your code and generosity have been invaluable. Every contribution you’ve made might be the breakthrough for someone like me. There’s a special place in my heart for all of you!
 
+Note :
+- 🤔 I don’t reinvent the wheel (yet).
+- ⚡ My math and logic aren’t perfect, but I’m always working to improve.
+- 😉 **“It’s never too late to learn.”** (Shout-out to a wise friend from Finland.)
 
-**I don't like propaganda, disinformation, and lie.**
-Everyone should be able to found **true information on internet.**
+I value **truth, transparency, and open knowledge.**
+I stand firmly against **propaganda, misinformation, and deceit.**
 
+**Everyone should have access to accurate information online.**
 God bless the open-source community.
+**SHARING IS CARING.**
+
+Let me know if you want this further tailored for a specific audience or with extra focuses (e.g., security, ethical hacking, etc.)!
 
 # demo pcileech-fpga firmware 
 **[pcileech-multimedia-hd](https://github.com/dom0ng/pcileech-multimedia-hd)** - FPGA card looks like an capture card, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.  
