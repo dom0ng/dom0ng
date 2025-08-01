@@ -9,7 +9,7 @@ I believe the best way to learn is by doing—and occasionally breaking things.
 - 👯 I happily stand on the shoulders of giants. Many tools I use are crafted by developers far more skilled than me.
 Embracing the "skid" label isn’t a weakness—it's a drive to learn, improve, and contribute back.
 I’m always open to collaboration and believe deeply that sharing knowledge benefits everyone.
-- 💞️ Special thanks to the open-source community—your code and generosity have been invaluable. Every contribution you’ve made might be the breakthrough for someone like me. There’s a special place in my heart for all of you!
+- 💞️ Special thanks to the open-source community—your code and generosity have been invaluable. Every contribution you’ve made might be the breakthrough and equalizer for someone like me. There’s a special place in my heart for all of you!
 
 Note :
 - 🤔 I don’t reinvent the wheel (yet).
